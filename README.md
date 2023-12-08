@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning ... Data Structure & Algorithm in c
-<!-->- 👯 I’m looking to collaborate on ...
-<!-->- 🤔 I’m looking for help with ...
-<!-->- 💬 Ask me about ...
 - 📫 How to reach me: ... mamtajoshi26dec@gmail.com
 
 
